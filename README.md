@@ -1,5 +1,5 @@
 # KNN_Iris_Dataset
-##K-Nearest Neighbours (KNN) Classifier
+## K-Nearest Neighbours (KNN) Classifier
 
 This repository demonstrates the implementation of the **K-Nearest Neighbours (KNN)** algorithm for classification using the popular **Iris dataset**. The notebook walks through the process of building a KNN classification model, visualizing the decision boundaries, and comparing the effect of different weight functions (`uniform` and `distance`).
 
